@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 脚本保存路径876..6767
+# 脚本保存路径876..6767999
 SCRIPT_PATH="$HOME/Fractal Bitcoin.sh"
 
 # 主菜单函数
